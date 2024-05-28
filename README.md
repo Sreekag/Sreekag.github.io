@@ -1,3 +1,3 @@
 # Portfolio
 
-https://sreekag.github.io/Portfolio/
+https://sreekag.github.io/
